@@ -42,16 +42,16 @@ The Flight Booking ER-Diagram illustrates the relationships between the followin
   - server.js: Main server file.
     
 **Application Flow:**
-**User Flow:**
-  1.**Account Creation:** Users create an account to start booking.
-  2.**Search Flights:** Search for flights by destination, time, and seat preference.
-  3.**Book Flight:** Select a flight and seat, then complete the booking.
-  4.**Booking Management:** Option to cancel bookings.
+- **User Flow:**
+-   1.**Account Creation:** Users create an account to start booking.
+-   2.**Search Flights:** Search for flights by destination, time, and seat preference.
+-   3.**Book Flight:** Select a flight and seat, then complete the booking.
+-   4.**Booking Management:** Option to cancel bookings.
   
 **Admin Flow:**
-  1.**Manage Bookings:** Admin can view, approve, or cancel bookings.
-  2.**Add New Flights:** Admin can add and update flight details.
-  3.**Monitor User Activity:** Admin can view user actions for efficient management.
+-   1.**Manage Bookings:** Admin can view, approve, or cancel bookings.
+-   2.**Add New Flights:** Admin can add and update flight details.
+-   3.**Monitor User Activity:** Admin can view user actions for efficient management.
   
 **Project Flow:**
 - **Project Setup:** Initial configuration of frontend and backend.
