@@ -16,13 +16,12 @@ This project is a Naan Mudhalvan team initiative aimed at creating an efficient,
 
 **Key Features:**
 - User-Friendly Interface: Easily search for flights based on destination, time, and seat availability.
-- Secure Payment: Safe and reliable payment integration.
 - Admin Controls: Admin can manage flight listings, bookings, and monitor activity.
 
 **ER Diagram Breakdown:**
 The Flight Booking ER-Diagram illustrates the relationships between the following entities:
 
-- **USER:** Represents customers who book flights. A customer can place multiple bookings and make multiple payments.
+- **USER:** Represents customers who book flights. A customer can place multiple bookings.
 - **BOOKING:** Represents a specific flight booking, including flight details and passenger information. A customer can have multiple bookings.
 - **FLIGHT:** Represents available flights, including flight details. Users can book flights based on seat availability.
 - **ADMIN:** The admin manages the backend operations, including overseeing bookings, adding new flights, etc.
