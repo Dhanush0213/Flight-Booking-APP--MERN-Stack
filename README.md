@@ -14,6 +14,7 @@ Category: Fullstack Development - MERN
 - The **Flight Booking App** is a web platform that simplifies the process of booking flights. Users can search for flights, make bookings, and process payments with ease. Admins can manage bookings, add new flights, and monitor user activity. The app is built using the MERN stack (MongoDB, Express.js, React.js, Node.js).
  
 - This project is a Naan Mudhalvan team initiative aimed at creating an efficient, user-friendly digital platform for flight booking.
+  ![Screenshot 2024-11-22 213404](https://github.com/user-attachments/assets/c7c0d58e-230f-4cff-a9aa-c4ceacdf09cc)
 
 **Key Features:**
 - User-Friendly Interface: Easily search for flights based on destination, time, and seat availability.
